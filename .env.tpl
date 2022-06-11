@@ -1,0 +1,1 @@
+ACME_API_KEY="op://demo/acme_api_key/credential"
